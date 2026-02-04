@@ -1,0 +1,6 @@
+*{background-color: black; font-family: sans-serif; color:white; margin: 0%; padding: 0%;} 
+.body{display: flex; justify-content:left; align-items: center;  width: 100%; height: 100vh;}
+.sub-body{width: 50%; margin-left: 7%;}
+.sub-body h1{font-size: 4.5rem; letter-spacing: 2px;}
+.body p{width: 80%; height: 15%; margin-top: 10px;}
+.body button{background-color: #ff0033; width: 175px; height: 45px; margin-top: 10px; border: none; outline: none; font-size: 20px; display: flex; justify-content: center; align-items: center;}
